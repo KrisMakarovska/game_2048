@@ -1,6 +1,6 @@
 🚀 Game 2048 -  is a popular puzzle game in which the player must slide numbered tiles on a grid to combine them and create a tile with the number 2048.
 
-DEMO LINK
+[DEMO LINK](https://krismakarovska.github.io/game_2048/).   
 
 Technologies:
 Javascript,
